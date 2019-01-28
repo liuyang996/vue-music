@@ -1,5 +1,9 @@
 # 音乐播放器
 
+### 项目预览
+
+  ![](https://github.com/liuyang996/vue-music/blob/master/pic1.gif)
+
 > 技术栈   
 
 - vue-cli脚手架，用来创建项目结构，基本配置它都已经帮我们搞定
